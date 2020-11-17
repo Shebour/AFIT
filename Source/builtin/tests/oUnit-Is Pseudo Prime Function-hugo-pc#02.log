@@ -1,0 +1,6 @@
+2020-07-05T15:20:06+00:00 hugo-pc#02 I: Start test Is Pseudo Prime Function:1:(11, [2; 4; 5; 20]) -> true).
+2020-07-05T15:20:06+00:00 hugo-pc#02 I: Test Is Pseudo Prime Function:1:(11, [2; 4; 5; 20]) -> true) is successful.
+2020-07-05T15:20:06+00:00 hugo-pc#02 I: End test Is Pseudo Prime Function:1:(11, [2; 4; 5; 20]) -> true).
+2020-07-05T15:20:06+00:00 hugo-pc#02 I: Start test Is Pseudo Prime Function:5:(22, [30; 41; 52]) -> false).
+2020-07-05T15:20:06+00:00 hugo-pc#02 I: Test Is Pseudo Prime Function:5:(22, [30; 41; 52]) -> false) is successful.
+2020-07-05T15:20:06+00:00 hugo-pc#02 I: End test Is Pseudo Prime Function:5:(22, [30; 41; 52]) -> false).

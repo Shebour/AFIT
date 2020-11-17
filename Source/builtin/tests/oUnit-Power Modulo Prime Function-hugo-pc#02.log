@@ -1,0 +1,9 @@
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Start test Power Modulo Prime Function:1:((-1, 11, 11), 10).
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Test Power Modulo Prime Function:1:((-1, 11, 11), 10) is successful.
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: End test Power Modulo Prime Function:1:((-1, 11, 11), 10).
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Start test Power Modulo Prime Function:5:((-2, 2, 5), 4).
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Test Power Modulo Prime Function:5:((-2, 2, 5), 4) is successful.
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: End test Power Modulo Prime Function:5:((-2, 2, 5), 4).
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Start test Power Modulo Prime Function:8:((3, 3, 17), 10).
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Test Power Modulo Prime Function:8:((3, 3, 17), 10) is successful.
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: End test Power Modulo Prime Function:8:((3, 3, 17), 10).

@@ -1,0 +1,8 @@
+2020-07-05T15:20:11+00:00 hugo-pc#01 I: Start test Encode Function:0:(Bashar, 7) -> 2294023860466.
+2020-07-05T15:20:11+00:00 hugo-pc#01 E: Test Encode Function:0:(Bashar, 7) -> 2294023860466 has failed.
+2020-07-05T15:20:11+00:00 hugo-pc#01 E: Encode Function
+2020-07-05T15:20:11+00:00 hugo-pc#01 E: expected: 2294023860466 but got: 0 in test Encode Function:0:(Bashar, 7) -> 2294023860466.
+2020-07-05T15:20:11+00:00 hugo-pc#01 E: Raised at file "src/oUnitAssert.ml", line 45, characters 8-27
+2020-07-05T15:20:11+00:00 hugo-pc#01 E: Called from file "src/oUnitRunner.ml", line 46, characters 13-26
+2020-07-05T15:20:11+00:00 hugo-pc#01 E: 
+2020-07-05T15:20:11+00:00 hugo-pc#01 I: End test Encode Function:0:(Bashar, 7) -> 2294023860466.

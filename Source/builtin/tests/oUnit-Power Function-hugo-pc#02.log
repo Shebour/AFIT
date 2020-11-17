@@ -1,0 +1,9 @@
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Start test Power Function:1:((-1, 11), -1).
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Test Power Function:1:((-1, 11), -1) is successful.
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: End test Power Function:1:((-1, 11), -1).
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Start test Power Function:5:((-2, 2), 4).
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Test Power Function:5:((-2, 2), 4) is successful.
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: End test Power Function:5:((-2, 2), 4).
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Start test Power Function:8:((3, 3), 27).
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: Test Power Function:8:((3, 3), 27) is successful.
+2020-07-05T15:20:05+00:00 hugo-pc#02 I: End test Power Function:8:((3, 3), 27).

@@ -1,0 +1,51 @@
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:3:((0, 3), 0).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:3:((0, 3), 0) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:3:((0, 3), 0).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:10:((1, 4), 16).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:10:((1, 4), 16) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:10:((1, 4), 16).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:13:((2, 1), 4).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:13:((2, 1), 4) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:13:((2, 1), 4).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:15:((2, 3), 16).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:15:((2, 3), 16) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:15:((2, 3), 16).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:25:((4, 1), 8).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:25:((4, 1), 8) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:25:((4, 1), 8).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:31:((5, 1), 10).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:31:((5, 1), 10) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:31:((5, 1), 10).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:33:((5, 3), 40).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:33:((5, 3), 40) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:33:((5, 3), 40).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:37:((-2, 1), -4).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:37:((-2, 1), -4) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:37:((-2, 1), -4).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:38:((-2, 2), -8).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:38:((-2, 2), -8) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:38:((-2, 2), -8).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:44:((-5, 2), -20).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:44:((-5, 2), -20) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:44:((-5, 2), -20).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:45:((-5, 3), -40).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:45:((-5, 3), -40) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:45:((-5, 3), -40).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:50:((-4, 2), -16).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:50:((-4, 2), -16) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:50:((-4, 2), -16).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:53:((-4, 5), -128).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:53:((-4, 5), -128) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:53:((-4, 5), -128).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:55:((-3, 1), -6).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:55:((-3, 1), -6) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:55:((-3, 1), -6).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:59:((-3, 5), -96).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:59:((-3, 5), -96) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:59:((-3, 5), -96).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:62:((-1, 2), -4).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:62:((-1, 2), -4) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:62:((-1, 2), -4).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Start test shift:65:((-1, 5), -32).
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: Test shift:65:((-1, 5), -32) is successful.
+2020-07-05T15:20:08+00:00 hugo-pc#04 I: End test shift:65:((-1, 5), -32).

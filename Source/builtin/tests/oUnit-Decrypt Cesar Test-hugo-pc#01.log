@@ -1,0 +1,3 @@
+2020-07-05T15:20:07+00:00 hugo-pc#01 I: Start test Decrypt Cesar Test:0:(2, [4; 5; 8], 10) -> [2; 3; 6].
+2020-07-05T15:20:07+00:00 hugo-pc#01 I: Test Decrypt Cesar Test:0:(2, [4; 5; 8], 10) -> [2; 3; 6] is successful.
+2020-07-05T15:20:07+00:00 hugo-pc#01 I: End test Decrypt Cesar Test:0:(2, [4; 5; 8], 10) -> [2; 3; 6].
