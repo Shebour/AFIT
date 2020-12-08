@@ -1,9 +1,0 @@
-2020-07-05T15:20:11+00:00 hugo-pc#01 I: Start test Is Prime Function:0:(2 -> true).
-2020-07-05T15:20:11+00:00 hugo-pc#01 I: Test Is Prime Function:0:(2 -> true) is successful.
-2020-07-05T15:20:11+00:00 hugo-pc#01 I: End test Is Prime Function:0:(2 -> true).
-2020-07-05T15:20:11+00:00 hugo-pc#01 I: Start test Is Prime Function:4:(11 -> true).
-2020-07-05T15:20:11+00:00 hugo-pc#01 I: Test Is Prime Function:4:(11 -> true) is successful.
-2020-07-05T15:20:11+00:00 hugo-pc#01 I: End test Is Prime Function:4:(11 -> true).
-2020-07-05T15:20:11+00:00 hugo-pc#01 I: Start test Is Prime Function:7:(6 -> false).
-2020-07-05T15:20:11+00:00 hugo-pc#01 I: Test Is Prime Function:7:(6 -> false) is successful.
-2020-07-05T15:20:11+00:00 hugo-pc#01 I: End test Is Prime Function:7:(6 -> false).

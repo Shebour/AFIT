@@ -1,9 +1,0 @@
-2020-07-05T15:20:10+00:00 hugo-pc#02 I: Start test Pow Function:1:((-1, 11), -1).
-2020-07-05T15:20:10+00:00 hugo-pc#02 I: Test Pow Function:1:((-1, 11), -1) is successful.
-2020-07-05T15:20:10+00:00 hugo-pc#02 I: End test Pow Function:1:((-1, 11), -1).
-2020-07-05T15:20:10+00:00 hugo-pc#02 I: Start test Pow Function:5:((-2, 2), 4).
-2020-07-05T15:20:10+00:00 hugo-pc#02 I: Test Pow Function:5:((-2, 2), 4) is successful.
-2020-07-05T15:20:10+00:00 hugo-pc#02 I: End test Pow Function:5:((-2, 2), 4).
-2020-07-05T15:20:10+00:00 hugo-pc#02 I: Start test Pow Function:8:((3, 3), 27).
-2020-07-05T15:20:10+00:00 hugo-pc#02 I: Test Pow Function:8:((3, 3), 27) is successful.
-2020-07-05T15:20:10+00:00 hugo-pc#02 I: End test Pow Function:8:((3, 3), 27).
